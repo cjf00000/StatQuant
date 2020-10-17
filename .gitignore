@@ -1,0 +1,10 @@
+results
+*.log
+.idea
+__pycache__
+*.pdf
+*.npz
+*.png
+.DS_Store
+*.jpg
+*.pptx
