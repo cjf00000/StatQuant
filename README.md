@@ -1,7 +1,7 @@
 StatQuant
 ====
-Code for reproducing the results in the paper ``A Statistical Framework for Low-bitwidth Training of Deep Neural Networks``
-publisbed in NeurIPS 2020. 
+Code for reproducing the results in the paper [A Statistical Framework for Low-bitwidth Training of Deep Neural Networks](https://arxiv.org/abs/2010.14298)
+published in NeurIPS 2020. 
 The code is based [convNet.pytorch](https://github.com/eladhoffer/convNet.pytorch), [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples), and
 [pytorch_minimax](https://github.com/GaiYu0/pytorch_minimax/tree/master).
 
